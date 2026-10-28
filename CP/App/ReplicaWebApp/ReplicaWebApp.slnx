@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ReplicaLibrary/ReplicaLibrary.csproj" />
+  <Project Path="ReplicaWebApp/ReplicaWebApp.csproj" />
+</Solution>
