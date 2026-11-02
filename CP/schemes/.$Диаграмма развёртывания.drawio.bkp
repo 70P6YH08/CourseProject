@@ -1,0 +1,58 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="0kivFFD4hnxc3xmMd4dX">
+    <mxGraphModel dx="1178" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-9" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;«устройство»&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Сервер&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="235" width="510" x="230" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-16" edge="1" parent="1" source="FX2TiHYnciGDcH5T0Y12-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FX2TiHYnciGDcH5T0Y12-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-19" connectable="0" parent="FX2TiHYnciGDcH5T0Y12-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TCP/IP" vertex="1">
+          <mxGeometry relative="1" x="0.0192" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-10" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="«среда выполнения»&lt;div&gt;.NET 10.0 Runtime&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="260" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-11" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;«среда выполнения»&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;/span&gt;&lt;/div&gt;MySQL 8.0" vertex="1">
+          <mxGeometry height="120" width="180" x="530" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-12" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="«компонент»&lt;div&gt;ReplicaWebApp&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="280" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-13" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="«компонент»&lt;div&gt;replica_db&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="550" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-20" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;«устройство»&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Компьютер&lt;/div&gt;" vertex="1">
+          <mxGeometry height="235" width="320" x="230" y="568" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-22" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="«среда выполнения»&lt;div&gt;Браузер&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="260" x="260" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-33" edge="1" parent="1" source="FX2TiHYnciGDcH5T0Y12-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;dashed=1;" target="FX2TiHYnciGDcH5T0Y12-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-24" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="«компонент»&lt;div&gt;replica.ru&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="280" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-27" edge="1" parent="1" source="FX2TiHYnciGDcH5T0Y12-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="FX2TiHYnciGDcH5T0Y12-9">
+          <mxGeometry relative="1" x="-0.0034" as="geometry" />
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-28" connectable="0" parent="FX2TiHYnciGDcH5T0Y12-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTPS" vertex="1">
+          <mxGeometry relative="1" x="-0.0245" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FX2TiHYnciGDcH5T0Y12-31" edge="1" parent="1" source="FX2TiHYnciGDcH5T0Y12-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.094;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=block;endFill=1;" target="FX2TiHYnciGDcH5T0Y12-13">
+          <mxGeometry relative="1" x="0.0025" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
