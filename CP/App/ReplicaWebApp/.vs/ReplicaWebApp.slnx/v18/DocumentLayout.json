@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CP\\App\\ReplicaWebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\App\\ReplicaWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\cp\\app\\replicawebapp\\replicawebapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\app\\replicawebapp\\replicalibrary\\replicalibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\replicalibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\app\\replicawebapp\\replicawebapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -55,15 +59,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReplicaLibrary",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\App\\ReplicaWebApp\\ReplicaLibrary\\ReplicaLibrary.csproj",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\ReplicaLibrary.csproj",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\App\\ReplicaWebApp\\ReplicaLibrary\\ReplicaLibrary.csproj",
+              "RelativeToolTip": "ReplicaLibrary\\ReplicaLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-31T12:39:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CP\\App\\ReplicaWebApp\\ReplicaWebApp\\Components\\Pages\\Weather.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\App\\ReplicaWebApp\\ReplicaWebApp\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CP\\App\\ReplicaWebApp\\ReplicaWebApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\App\\ReplicaWebApp\\ReplicaWebApp\\Components\\Pages\\Weather.razor",
               "RelativeToolTip": "ReplicaWebApp\\Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-26T19:29:57.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T19:29:57.828Z"
             }
           ]
         }
