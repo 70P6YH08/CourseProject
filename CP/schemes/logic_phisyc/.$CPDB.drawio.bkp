@@ -563,8 +563,8 @@
         <mxCell id="9ZDofVbLaj0OISfPkx0F-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Добавить количество попыток и событие, которое раз в какое-то время будет восстанавливать эти попытки для входа" vertex="1">
           <mxGeometry height="75" width="160" x="-470" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="9ZDofVbLaj0OISfPkx0F-8" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="Table" vertex="1">
-          <mxGeometry height="90" width="180" x="360" y="430" as="geometry" />
+        <mxCell id="9ZDofVbLaj0OISfPkx0F-8" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="Тип статуса" vertex="1">
+          <mxGeometry height="90" width="180" x="310" y="430" as="geometry" />
         </mxCell>
         <mxCell id="9ZDofVbLaj0OISfPkx0F-9" parent="9ZDofVbLaj0OISfPkx0F-8" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
