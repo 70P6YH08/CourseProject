@@ -17,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 271,
+          "DockedWidth": 200,
           "SelectedChildIndex": 9,
           "Children": [
             {
@@ -59,7 +59,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReplicaLibrary",
+              "Title": "ReplicaLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\App\\ReplicaWebApp\\ReplicaLibrary\\ReplicaLibrary.csproj",
               "RelativeDocumentMoniker": "ReplicaLibrary\\ReplicaLibrary.csproj",
               "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\App\\ReplicaWebApp\\ReplicaLibrary\\ReplicaLibrary.csproj",
