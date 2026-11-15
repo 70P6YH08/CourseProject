@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "33/CJmSjj7A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\ReplicaWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorbu\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
