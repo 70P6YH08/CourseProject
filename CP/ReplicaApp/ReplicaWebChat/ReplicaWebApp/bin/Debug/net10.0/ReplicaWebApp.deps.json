@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "ReplicaWebApp/1.0.0": {
+        "dependencies": {
+          "ReplicaLibrary": "1.0.0"
+        },
         "runtime": {
           "ReplicaWebApp.dll": {}
+        }
+      },
+      "ReplicaLibrary/1.0.0": {
+        "runtime": {
+          "ReplicaLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ReplicaWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReplicaLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

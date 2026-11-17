@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\obj\\Debug\\net10.0\\scopedcss\\projectbundle\\ReplicaLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ReplicaLibrary.gu6huv65hz.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.ReplicaLibrary.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.ReplicaLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.build.ReplicaLibrary.props",
+      "PackagePath": "build\\ReplicaLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.buildMultiTargeting.ReplicaLibrary.props",
+      "PackagePath": "buildMultiTargeting\\ReplicaLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.buildTransitive.ReplicaLibrary.props",
+      "PackagePath": "buildTransitive\\ReplicaLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

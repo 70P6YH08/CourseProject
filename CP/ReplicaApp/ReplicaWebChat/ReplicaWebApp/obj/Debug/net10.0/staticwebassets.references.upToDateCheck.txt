@@ -1,0 +1,1 @@
+C:\temp\ispp31\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaLibrary\obj\Debug\net10.0\staticwebassets.build.json
