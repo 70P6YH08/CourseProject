@@ -1,14 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\",
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\wwwroot\\examplejsinterop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\wwwroot\\examplejsinterop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\components\\layout\\reconnectmodal.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\components\\layout\\reconnectmodal.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicawebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92901EC2-01CB-5732-F8C7-B2FE74B5CD80}|ReplicaWebApp\\ReplicaWebApp.csproj|solutionrelative:replicawebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\component1.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\component1.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +82,276 @@
       "DocumentGroups": [
         {
           "DockedWidth": 283,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "exampleJsInterop.js",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\exampleJsInterop.js",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\wwwroot\\exampleJsInterop.js",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\exampleJsInterop.js",
-              "RelativeToolTip": "ReplicaLibrary\\wwwroot\\exampleJsInterop.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-11-17T12:53:10.985Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExampleJsInterop.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\ExampleJsInterop.cs",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\ExampleJsInterop.cs",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\ExampleJsInterop.cs",
-              "RelativeToolTip": "ReplicaLibrary\\ExampleJsInterop.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Program.cs",
+              "RelativeToolTip": "ReplicaWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T12:46:58.141Z",
+              "WhenOpened": "2026-11-17T22:05:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\appsettings.json",
+              "RelativeToolTip": "ReplicaWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-17T22:05:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Routes.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:25:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:28:54.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:25:07.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:25:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:25:08.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:25:05.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:25:02.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReconnectModal.razor.js",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor.js",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor.js",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor.js",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-17T21:22:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReconnectModal.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Layout\\ReconnectModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T21:22:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\App.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T20:56:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T20:55:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ReplicaWebApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T20:55:24.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReplicaWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReplicaWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-17T20:55:08.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Component1.razor.css",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Component1.razor.css",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Component1.razor.css",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Component1.razor.css",
+              "RelativeToolTip": "ReplicaLibrary\\Component1.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-17T20:43:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Component1.razor",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Component1.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Component1.razor",
+              "RelativeToolTip": "ReplicaLibrary\\Component1.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T20:43:39.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\_Imports.razor",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\_Imports.razor",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\_Imports.razor",
+              "RelativeToolTip": "ReplicaLibrary\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T20:42:54.894Z",
               "EditorCaption": ""
             }
           ]

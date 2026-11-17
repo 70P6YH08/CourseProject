@@ -1,16 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\obj\\Debug\\net10.0\\scopedcss\\projectbundle\\ReplicaLibrary.bundle.scp.css",
+      "Id": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\obj\\Debug\\net10.0\\scopedcss\\projectbundle\\ReplicaLibrary.bundle.scp.css",
       "PackagePath": "staticwebassets\\ReplicaLibrary.gu6huv65hz.bundle.scp.css"
     },
     {
-      "Id": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\background.png",
+      "Id": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\background.png",
       "PackagePath": "staticwebassets\\background.png"
-    },
-    {
-      "Id": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\exampleJsInterop.js",
-      "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
     {
       "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.ReplicaLibrary.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

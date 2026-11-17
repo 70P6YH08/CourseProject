@@ -1,0 +1,2 @@
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaLibrary\wwwroot\exampleJsInterop.js
+C:\temp\ispp31\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaLibrary\wwwroot\exampleJsInterop.js

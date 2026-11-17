@@ -72,7 +72,6 @@ C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\Rep
 C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\compressed\kpdnhb8rxo-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\compressed\vocj5bt5w2-{0}-9hsif5t8mt-9hsif5t8mt.gz
 C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\compressed\bmwn56jbvt-{0}-dwu72t6gfx-dwu72t6gfx.gz
-C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\compressed\kbgum3n670-{0}-7s8eslf0mu-7s8eslf0mu.gz
 C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\compressed\lq5grhtd5n-{0}-7s8eslf0mu-7s8eslf0mu.gz
 C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\staticwebassets.build.json.cache
@@ -178,3 +177,10 @@ C:\temp\ispp31\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\bin\Debu
 C:\temp\ispp31\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\bin\Debug\net10.0\ReplicaLibrary.pdb
 C:\temp\ispp31\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\ReplicaWebApp.csproj.AssemblyReference.cache
 C:\temp\ispp31\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\compressed\kbgum3n670-{0}-rbwq24kii1-rbwq24kii1.gz
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\bin\Debug\net10.0\ReplicaLibrary.staticwebassets.runtime.json
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\bin\Debug\net10.0\ReplicaLibrary.staticwebassets.endpoints.json
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\bin\Debug\net10.0\ReplicaLibrary.dll
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\bin\Debug\net10.0\ReplicaLibrary.pdb
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\ReplicaWebApp.csproj.AssemblyReference.cache
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\compressed\kbgum3n670-{0}-rbwq24kii1-rbwq24kii1.gz
+C:\Users\gorbu\Desktop\All\collage\4year1semestr\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaWebApp\obj\Debug\net10.0\ReplicaW.2D0DF6A0.Up2Date

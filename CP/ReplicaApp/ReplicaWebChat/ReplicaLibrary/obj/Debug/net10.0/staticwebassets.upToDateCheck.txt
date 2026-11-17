@@ -1,3 +1,1 @@
 wwwroot\background.png
-wwwroot\exampleJsInterop.js
-C:\temp\ispp31\CourseProject\CP\ReplicaApp\ReplicaWebChat\ReplicaLibrary\wwwroot\exampleJsInterop.js
