@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReplicaWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22af3eddb85bb3d4ee363ccd84179b532df87eee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffccde7c8424c30b48f7a90edfc2219c99539a09")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReplicaWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReplicaWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

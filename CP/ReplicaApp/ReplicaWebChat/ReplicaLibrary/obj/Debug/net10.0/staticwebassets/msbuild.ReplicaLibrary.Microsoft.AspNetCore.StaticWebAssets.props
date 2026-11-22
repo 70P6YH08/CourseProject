@@ -20,25 +20,5 @@
       <LastWriteTime>Wed, 11 Nov 2026 17:49:11 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\background.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ReplicaLibrary.gu6huv65hz.bundle.scp.css'))">
-      <SourceType>Package</SourceType>
-      <SourceId>ReplicaLibrary</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ReplicaLibrary</BasePath>
-      <RelativePath>ReplicaLibrary.gu6huv65hz.bundle.scp.css</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>Reference</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName>ScopedCss</AssetTraitName>
-      <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>gu6huv65hz</Fingerprint>
-      <Integrity>GGm6gBzH7Efl8AzjLihJammF6Pec2yQ8Yz2fCPIKR4Y=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>207</FileLength>
-      <LastWriteTime>Tue, 17 Nov 2026 20:40:46 GMT</LastWriteTime>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ReplicaLibrary.gu6huv65hz.bundle.scp.css'))</OriginalItemSpec>
-    </StaticWebAsset>
   </ItemGroup>
 </Project>

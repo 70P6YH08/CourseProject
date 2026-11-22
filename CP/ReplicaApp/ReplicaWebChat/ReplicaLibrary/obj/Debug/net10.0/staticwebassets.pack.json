@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\obj\\Debug\\net10.0\\scopedcss\\projectbundle\\ReplicaLibrary.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ReplicaLibrary.gu6huv65hz.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\wwwroot\\background.png",
       "PackagePath": "staticwebassets\\background.png"
     },
