@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.2" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="10.0.14" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.14">
       <PrivateAssets>all</PrivateAssets>
@@ -25,11 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Components\Layout\" />
-    <Folder Include="Components\Pages\" />
-    <Folder Include="ViewModels\" />
-    <Folder Include="DTOs\" />
-    <Folder Include="Services\" />
+    <Folder Include="wwwroot\styles\" />
   </ItemGroup>
 
 </Project>

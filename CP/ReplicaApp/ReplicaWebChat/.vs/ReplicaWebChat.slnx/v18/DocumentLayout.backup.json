@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\contexts\\replicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\contexts\\replicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\chattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\chattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\converters\\typeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\converters\\typeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,43 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 283,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\Message.cs",
+              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Message.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:51:52.57Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupChat.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\GroupChat.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\GroupChat.cs",
+              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\GroupChat.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Models\\GroupChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:51:48.387Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatType.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\ChatType.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\ChatType.cs",
+              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\ChatType.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Models\\ChatType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:51:40.804Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\Chat.cs",
+              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Chat.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Models\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:51:21.13Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeConverter.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Converters\\TypeConverter.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Converters\\TypeConverter.cs",
+              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Converters\\TypeConverter.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Converters\\TypeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:51:03.66Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReplicaDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:49:43.245Z",
+              "EditorCaption": ""
             }
           ]
         }
