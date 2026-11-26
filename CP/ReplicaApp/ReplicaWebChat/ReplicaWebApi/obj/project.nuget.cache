@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GiM8hf2qmKg=",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApi\\ReplicaWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0109-06\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\0109-06\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
