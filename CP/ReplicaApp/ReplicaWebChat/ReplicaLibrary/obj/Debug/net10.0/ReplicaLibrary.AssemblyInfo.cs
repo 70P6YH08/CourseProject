@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReplicaLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f07709d99e34d22988495338874d87ae87e812a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40e6e35b44268527b85e5c1286f99c82f273ff69")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReplicaLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReplicaLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -100,7 +100,23 @@
           }
         }
       },
-      "Microsoft.AspNetCore.App.Internal.Assets/10.0.14": {
+      "MailKit/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MimeKit.Core": "5.0.0"
+        },
+        "compile": {
+          "lib/net10.0/MailKit.dll": {
+            "related": ".dll.config;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/MailKit.dll": {
+            "related": ".dll.config;.pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.App.Internal.Assets.props": {},
@@ -544,6 +560,19 @@
           }
         }
       },
+      "MimeKit.Core/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0/MimeKit.Core.dll": {
+            "related": ".dll.config;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/MimeKit.Core.dll": {
+            "related": ".dll.config;.pdb;.xml"
+          }
+        }
+      },
       "Mono.TextTemplating/3.0.0": {
         "type": "package",
         "dependencies": {
@@ -846,6 +875,7 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "CommunityToolkit.Mvvm": "8.4.2",
+          "MailKit": "5.0.0",
           "MySql.EntityFrameworkCore": "10.0.12"
         },
         "compile": {
@@ -1022,10 +1052,51 @@
         "lib/netstandard2.1/K4os.Hash.xxHash.xml"
       ]
     },
-    "Microsoft.AspNetCore.App.Internal.Assets/10.0.14": {
-      "sha512": "T1IOYbID1msKjQEh684HebnN+Xnq/pocMXDukOMZtzzPTf9c4/30+/JndM/1txrqwuSYqWvLiAQWzu4U93cshw==",
+    "MailKit/5.0.0": {
+      "sha512": "PG6hnsklTzd/iK9A6j03OxDOas9mh8zOBkbPzcsLmFOODE8Hw3HTy7HAKiJvVHXNpKc3/KMVG/4QvOAKCBbGhA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.app.internal.assets/10.0.14",
+      "path": "mailkit/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "docs/ExchangeOAuth2.md",
+        "docs/FAQ.md",
+        "docs/GMailOAuth2.md",
+        "docs/PortingGuide.md",
+        "docs/README.md",
+        "icons/mailkit-50.png",
+        "lib/net10.0/MailKit.dll",
+        "lib/net10.0/MailKit.dll.config",
+        "lib/net10.0/MailKit.pdb",
+        "lib/net10.0/MailKit.xml",
+        "lib/net462/MailKit.dll",
+        "lib/net462/MailKit.pdb",
+        "lib/net462/MailKit.xml",
+        "lib/net47/MailKit.dll",
+        "lib/net47/MailKit.pdb",
+        "lib/net47/MailKit.xml",
+        "lib/net48/MailKit.dll",
+        "lib/net48/MailKit.pdb",
+        "lib/net48/MailKit.xml",
+        "lib/net8.0/MailKit.dll",
+        "lib/net8.0/MailKit.dll.config",
+        "lib/net8.0/MailKit.pdb",
+        "lib/net8.0/MailKit.xml",
+        "lib/netstandard2.0/MailKit.dll",
+        "lib/netstandard2.0/MailKit.pdb",
+        "lib/netstandard2.0/MailKit.xml",
+        "lib/netstandard2.1/MailKit.dll",
+        "lib/netstandard2.1/MailKit.dll.config",
+        "lib/netstandard2.1/MailKit.pdb",
+        "lib/netstandard2.1/MailKit.xml",
+        "mailkit.5.0.0.nupkg.sha512",
+        "mailkit.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
+      "sha512": "+sIBo9AMBZH46qHWHQdfzcGMt+RuBaPYrUMOAM9VjA7MQ9QtIez3lq1C3E05+Yroa94KKt3DSWaxmCI4H28a9Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.app.internal.assets/10.0.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1041,7 +1112,7 @@
         "build/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildTransitive/Microsoft.AspNetCore.App.Internal.Assets.targets",
-        "microsoft.aspnetcore.app.internal.assets.10.0.14.nupkg.sha512",
+        "microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
     },
@@ -2249,6 +2320,44 @@
         "microsoft.visualstudio.solutionpersistence.nuspec"
       ]
     },
+    "MimeKit.Core/5.0.0": {
+      "sha512": "0RLaVyex/BjUGqiw9xtGwzyCMaBcsu33Rth61bDCeVeQaaQK7tjcy4TA+nHKTqwUdp4OGd+gnhuq2fuR+c20qA==",
+      "type": "package",
+      "path": "mimekit.core/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "docs/FAQ.md",
+        "docs/README.md",
+        "icons/mimekit-50.png",
+        "lib/net10.0/MimeKit.Core.dll",
+        "lib/net10.0/MimeKit.Core.dll.config",
+        "lib/net10.0/MimeKit.Core.pdb",
+        "lib/net10.0/MimeKit.Core.xml",
+        "lib/net462/MimeKit.Core.dll",
+        "lib/net462/MimeKit.Core.pdb",
+        "lib/net462/MimeKit.Core.xml",
+        "lib/net47/MimeKit.Core.dll",
+        "lib/net47/MimeKit.Core.pdb",
+        "lib/net47/MimeKit.Core.xml",
+        "lib/net48/MimeKit.Core.dll",
+        "lib/net48/MimeKit.Core.pdb",
+        "lib/net48/MimeKit.Core.xml",
+        "lib/net8.0/MimeKit.Core.dll",
+        "lib/net8.0/MimeKit.Core.dll.config",
+        "lib/net8.0/MimeKit.Core.pdb",
+        "lib/net8.0/MimeKit.Core.xml",
+        "lib/netstandard2.0/MimeKit.Core.dll",
+        "lib/netstandard2.0/MimeKit.Core.pdb",
+        "lib/netstandard2.0/MimeKit.Core.xml",
+        "lib/netstandard2.1/MimeKit.Core.dll",
+        "lib/netstandard2.1/MimeKit.Core.dll.config",
+        "lib/netstandard2.1/MimeKit.Core.pdb",
+        "lib/netstandard2.1/MimeKit.Core.xml",
+        "mimekit.core.5.0.0.nupkg.sha512",
+        "mimekit.core.nuspec"
+      ]
+    },
     "Mono.TextTemplating/3.0.0": {
       "sha512": "YqueG52R/Xej4VVbKuRIodjiAhV0HR/XVbLbNrJhCZnzjnSjgMJ/dCdV0akQQxavX6hp/LC6rqLGLcXeQYU7XA==",
       "type": "package",
@@ -2688,29 +2797,29 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.14",
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.12",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.14",
       "ReplicaLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\0109-06\\.nuget\\packages\\": {},
+    "C:\\Users\\gorbu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\ReplicaWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\ReplicaWebApp.csproj",
       "projectName": "ReplicaWebApp",
-      "projectPath": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\ReplicaWebApp.csproj",
-      "packagesPath": "C:\\Users\\0109-06\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\obj\\",
+      "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\ReplicaWebApp.csproj",
+      "packagesPath": "C:\\Users\\gorbu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\0109-06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gorbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2719,7 +2828,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2727,8 +2835,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\ReplicaLibrary.csproj": {
-              "projectPath": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\ReplicaLibrary.csproj"
+            "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\ReplicaLibrary.csproj": {
+              "projectPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\ReplicaLibrary.csproj"
             }
           }
         }
@@ -2753,7 +2861,7 @@
           "Microsoft.AspNetCore.App.Internal.Assets": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[10.0.14, )",
+            "version": "[10.0.12, )",
             "autoReferenced": true
           },
           "Microsoft.EntityFrameworkCore.Design": {
@@ -2782,7 +2890,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

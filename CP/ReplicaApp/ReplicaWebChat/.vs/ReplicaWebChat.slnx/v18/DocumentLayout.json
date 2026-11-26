@@ -1,30 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\",
+  "WorkspaceRootPath": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\contexts\\replicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\contexts\\replicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\services\\interlocutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\services\\interlocutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\chattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\chattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\converters\\typeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\converters\\typeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\groupchatdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\groupchatdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\temp\\ispp31\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\groupdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\groupdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\interlocutordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\interlocutordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\privatechatdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\privatechatdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\services\\smtpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\services\\smtpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\interlocutordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\interlocutordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\insertuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\insertuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\groupmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\groupmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|c:\\users\\gorbu\\desktop\\all\\collage\\4year1semestr\\courseproject\\cp\\replicaapp\\replicawebchat\\replicalibrary\\dtos\\privatemessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A404FE70-FC28-D45B-22DE-532B131C3DBA}|ReplicaLibrary\\ReplicaLibrary.csproj|solutionrelative:replicalibrary\\dtos\\privatemessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +74,250 @@
       "DocumentGroups": [
         {
           "DockedWidth": 283,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 20,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\Message.cs",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Message.cs",
-              "RelativeToolTip": "ReplicaLibrary\\Models\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:51:52.57Z"
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GroupChat.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\GroupChat.cs",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\GroupChat.cs",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\GroupChat.cs",
-              "RelativeToolTip": "ReplicaLibrary\\Models\\GroupChat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "InsertUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\InsertUserDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\InsertUserDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\InsertUserDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\InsertUserDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:51:48.387Z"
+              "WhenOpened": "2026-11-25T23:15:05.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChatType.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\ChatType.cs",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\ChatType.cs",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\ChatType.cs",
-              "RelativeToolTip": "ReplicaLibrary\\Models\\ChatType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CurrentUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\CurrentUserDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\CurrentUserDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\CurrentUserDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\CurrentUserDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:51:40.804Z"
+              "WhenOpened": "2026-11-25T23:01:24.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Chat.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Chat.cs",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\Models\\Chat.cs",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Models\\Chat.cs",
-              "RelativeToolTip": "ReplicaLibrary\\Models\\Chat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "InterlocutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\InterlocutorDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\InterlocutorDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\InterlocutorDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\InterlocutorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:51:21.13Z"
+              "WhenOpened": "2026-11-25T19:08:01.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrivateMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\PrivateMessageDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\PrivateMessageDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\PrivateMessageDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\PrivateMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:09:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterlocutorDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\InterlocutorDetailsDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\InterlocutorDetailsDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\InterlocutorDetailsDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\InterlocutorDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:21:48.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrivateChatDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\PrivateChatDetailsDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\PrivateChatDetailsDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\PrivateChatDetailsDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\PrivateChatDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T17:09:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\GroupDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\GroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:06:28.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GroupMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupMessageDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\GroupMessageDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupMessageDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\GroupMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:09:40.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupDetailsDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\GroupDetailsDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupDetailsDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\GroupDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:22:52.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TypeConverter.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Converters\\TypeConverter.cs",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\Converters\\TypeConverter.cs",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Converters\\TypeConverter.cs",
-              "RelativeToolTip": "ReplicaLibrary\\Converters\\TypeConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GroupChatDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupChatDetailsDto.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\DTOs\\GroupChatDetailsDto.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\DTOs\\GroupChatDetailsDto.cs",
+              "RelativeToolTip": "ReplicaLibrary\\DTOs\\GroupChatDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:51:03.66Z"
+              "WhenOpened": "2026-11-25T18:41:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\GroupService.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Services\\GroupService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:05:48.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReplicaDbContext.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
-              "RelativeDocumentMoniker": "ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
-              "ToolTip": "C:\\temp\\ispp31\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
-              "RelativeToolTip": "ReplicaLibrary\\Contexts\\ReplicaDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Title": "InterlocutorService.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\InterlocutorService.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Services\\InterlocutorService.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\InterlocutorService.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Services\\InterlocutorService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T05:49:43.245Z",
+              "WhenOpened": "2026-11-25T19:04:38.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\ChatService.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Services\\ChatService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:22:42.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\MessageService.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Services\\MessageService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T22:36:09.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmtpService.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\SmtpService.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Services\\SmtpService.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\SmtpService.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Services\\SmtpService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T23:00:32.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ReplicaLibrary\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\gorbu\\Desktop\\All\\collage\\4year1semestr\\CourseProject\\CP\\ReplicaApp\\ReplicaWebChat\\ReplicaLibrary\\Services\\UserService.cs",
+              "RelativeToolTip": "ReplicaLibrary\\Services\\UserService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T22:59:29.886Z",
               "EditorCaption": ""
             }
           ]
